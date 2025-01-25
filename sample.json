@@ -1,0 +1,22 @@
+{
+  "consonant": [
+    {
+      "Token": "g",
+      "Sequence": "g"
+    },
+    {
+      "Token": "s",
+      "Sequence": "s"
+    }
+  ],
+  "vowel": [
+    {
+      "Token": "a",
+      "Sequence": "a"
+    },
+    {
+      "Token": "i",
+      "Sequence": "i"
+    }
+  ]
+}
