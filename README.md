@@ -1,0 +1,2 @@
+# romantable_generator
+JSONファイルをGoogle日本語入力向けの形式に変換します。
